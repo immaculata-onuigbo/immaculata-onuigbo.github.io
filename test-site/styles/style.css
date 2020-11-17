@@ -1,0 +1,12 @@
+p {color:red;width: 600px}
+p, li {color:#161614; font-size: 16px; line-height: 2; letter-spacing: 1px;}
+h1 {color:#003865; font-size: 60px; text-align: center;}
+img[src] {border: 3px solid black;}
+a:hover {font-size: x-large;}
+html {font-size: 15px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: "Cormorant Infant", serif; /* this should be the rest of the output you got from Google fonts */}
+html {background-color: #003865;}
+body {width: 600px; margin: 0 auto; background-color: #FF9500; padding: 0 20px 20px 20px; border: 5px solid black;}
+h1 {margin: 0; padding: 20px 0; color: #003865; text-shadow: 3px 3px 1px black;}
+img {display: block; margin: 0 auto;}
+button {display: block; margin: 0 auto;}
